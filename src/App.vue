@@ -1,4 +1,4 @@
-<script setup>
+<script>
 import NewComponent from './components/NewComponent.vue'
 
 export default {
